@@ -1,3 +1,3 @@
 const app = document.getElementById('app');
 
-app.innerText = 'Hello World';
+app.innerText = 'RESULTADOS DO JOGO DO BICHO - MORENO DA SORTE 🍀';
