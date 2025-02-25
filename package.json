@@ -1,10 +1,10 @@
 {
-  "name": "personal",
+  "name": "morenodasorte-jogo-do-bicho",
   "version": "1.0.0",
-  "description": "Project to better show results of jogo do bicho",
+  "description": "Projeto para mostrar resultados do jogo do bicho",
   "main": "index.js",
-  "repository": "https://github.com/nagaroni/jogo-do-bicho.git",
-  "author": "Gabriel Lima",
+  "repository": "https://github.com/morenodasortejb/morenodasorte-jogo-do-bicho.git",
+  "author": "Moreno da Sorte",
   "scripts": {
     "start:dev": "webpack-dev-server --mode=development",
     "build": "webpack --mode=production --module-bind js=babel-loader",
