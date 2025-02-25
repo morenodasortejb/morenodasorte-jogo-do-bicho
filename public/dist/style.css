@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #4A00E0, #8E2DE2);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+table {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid white;
+    text-align: center;
+}
+
+th {
+    background: rgba(0, 0, 0, 0.3);
+}
